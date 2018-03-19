@@ -1,3 +1,5 @@
+#currently grabs the set name and the number of pieces and
+#outputs them to terminal.
 import scrapy
 
 class BrickSetSpider(scrapy.Spider):
